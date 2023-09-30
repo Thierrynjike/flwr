@@ -1,6 +1,6 @@
-# flwr Swift SDK
+# flwr Swift pod
 
-This package implements a Swift SDK for Flower.
+This is a pod for your flower application. You could use it in your flutter application as well
 
 ## Installation
 
@@ -31,4 +31,4 @@ startFlwrGRPC(client: mlFlwrClient) {
 
 ## License
 
-Apache-2.0 license
+MIT
